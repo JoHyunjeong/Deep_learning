@@ -1,1 +1,1 @@
-![cover_image](https://user-images.githubusercontent.com/86215668/148645133-6b59985c-4f32-4b3a-921e-ad528d93ceb0.jpg){: width='50' height='50}
+<img src="/Users/hyunjeongjo/밑바닥부터시작하는딥러닝/cover_image.jpg" width="300" height="300">
