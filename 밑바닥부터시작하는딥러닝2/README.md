@@ -99,4 +99,11 @@ A.3 정리
 B.1 NLTK 설치   
 B.2 WordNet에서 동의어 얻기   
 B.3 WordNet과 단어 네트워크   
-B.4 WordNet을 사용한 의미 
+B.4 WordNet을 사용한 의미   
+   
+   
+### APPENDIX C GRU   
+   
+C.1 GRU의 인터페이스   
+C.2 GRU의 계산 그래프
+   
