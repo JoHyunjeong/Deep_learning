@@ -2,7 +2,8 @@
   
 # 밑바닥부터 시작하는 딥러닝3  
 
-<center><img src='https://user-images.githubusercontent.com/86215668/148975789-4b339556-6669-49f0-85e8-73804213515e.png' width=200/></center>   
+<center><img src='https://user-images.githubusercontent.com/86215668/149923993-4f0b248e-bf72-4b8e-9d32-0c11da18d352.jpg' width=200/></center>   
+
   
 'DeZero(Deep Learning from Zero)'라는 이 책의 오리지널 딥러닝 프레임워크를   
 60단계에 걸쳐 점진적으로 만들며 파이토치, 체이너, 텐서플로 등 현대적인 프레임워크로 통하는 지식을 쌓을 수 있음😃
